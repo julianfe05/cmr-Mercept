@@ -1,3 +1,20 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "SAMIRA",
+      "empresa": "riot",
+      "email": "samira@gmail.com",
+      "telefono": "31212543543",
+      "notas": "si si es samira",
+      "id": 1
+    },
+    {
+      "nombre": "por que ",
+      "empresa": "la vida",
+      "email": "mezajulian17@gmail.com",
+      "telefono": "777",
+      "notas": "dificill!!!!!",
+      "id": 2
+    }
+  ]
 }
